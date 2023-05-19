@@ -1,5 +1,5 @@
 # python-web
-Aplicativo de blog básico com Flask(v: 2.1.x) e sqlite3. Os usuários poderão se registrar, fazer login, criar postagens e editar ou excluir suas próprias postagens.
+Aplicativo de blog básico com Flask (v: 2.1.x) e sqlite3. Os usuários poderão se registrar, fazer login, criar postagens e editar ou excluir suas próprias postagens.
 
 ## Instalação
 ### Crie um ambiente 
